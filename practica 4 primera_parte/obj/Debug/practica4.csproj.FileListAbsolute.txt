@@ -1,0 +1,15 @@
+C:\Users\287787\source\repos\practica4\practica4\bin\Debug\practica4.exe.config
+C:\Users\287787\source\repos\practica4\practica4\bin\Debug\practica4.exe
+C:\Users\287787\source\repos\practica4\practica4\bin\Debug\practica4.pdb
+C:\Users\287787\source\repos\practica4\practica4\obj\Debug\practica4.csprojAssemblyReference.cache
+C:\Users\287787\source\repos\practica4\practica4\obj\Debug\practica4.Form1.resources
+C:\Users\287787\source\repos\practica4\practica4\obj\Debug\practica4.Properties.Resources.resources
+C:\Users\287787\source\repos\practica4\practica4\obj\Debug\practica4.csproj.GenerateResource.cache
+C:\Users\287787\source\repos\practica4\practica4\obj\Debug\practica4.csproj.CoreCompileInputs.cache
+C:\Users\287787\source\repos\practica4\practica4\obj\Debug\practica4.exe
+C:\Users\287787\source\repos\practica4\practica4\obj\Debug\practica4.pdb
+C:\Users\287787\source\repos\practica4\practica4\obj\Debug\practica4.fhijo.resources
+C:\Users\34631\Downloads\practica 4 primera_parte\obj\Debug\practica4.csproj.AssemblyReference.cache
+C:\Users\34631\Downloads\practica 4 primera_parte\obj\Debug\practica4.csproj.SuggestedBindingRedirects.cache
+C:\Users\34631\Downloads\practica 4 primera_parte\obj\Debug\practica4.exe
+C:\Users\34631\Downloads\practica 4 primera_parte\obj\Debug\practica4.pdb
